@@ -1,0 +1,34 @@
+﻿Сборка начата 06.04.2023 20:15:34.
+Уровень детализации журнала: Normal.     1>Проект "D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\Dop2\Dop2.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "Release\Dop2.tlog\".
+       InitializeBuildStatus:
+         Создание "Release\Dop2.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Release\\" /Fd"Release\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt dop2.cpp
+         dop2.cpp
+     1>D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\Dop2\dop2.cpp(13,15): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\Dop2\dop2.cpp(16,23): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\Release\Dop2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\Release\Dop2.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /LTCGOUT:"Release\Dop2.iobj" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\Release\Dop2.lib" /MACHINE:X86 /SAFESEH Release\dop2.obj
+         Создание кода
+         Previous IPDB not found, fall back to full compilation.
+         All 120 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Создание кода завершено
+         Dop2.vcxproj -> D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\Release\Dop2.exe
+       FinalizeBuildStatus:
+         Файл "Release\Dop2.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Release\Dop2.tlog\Dop2.lastbuildstate".
+     1>Сборка проекта "D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\Dop2\Dop2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\Dop2\Dop2.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\Dop2\dop2.cpp(13,15): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\Dop2\dop2.cpp(16,23): warning C4018: <: несоответствие типов со знаком и без знака
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:01.75

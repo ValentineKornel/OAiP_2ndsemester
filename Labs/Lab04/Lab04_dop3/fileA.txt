@@ -1,0 +1,25 @@
+6
+sanat D
+Minsk
+Nervous system
+30
+sanat A
+Brest
+Respiratory organs
+40
+sanat B
+Gomel
+Nervous system
+50
+sanat C
+Vitebsk
+Skin diseases
+400
+sanat F
+Mogilev
+Respiratory organs
+20
+sanat E
+Grodno
+Skin diseases
+50

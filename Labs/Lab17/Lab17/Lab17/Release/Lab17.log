@@ -1,0 +1,31 @@
+﻿Сборка начата 17.04.2023 18:58:16.
+Уровень детализации журнала: Normal.     1>Проект "D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Lab17\Lab17.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Release\Lab17.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Release\\" /Fd"Release\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt lab17.cpp
+         lab17.cpp
+     1>D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Lab17\lab17.cpp(16,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Release\Lab17.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Release\Lab17.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /LTCGOUT:"Release\Lab17.iobj" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Release\Lab17.lib" /MACHINE:X86 /SAFESEH Release\lab17.obj
+         Создание кода
+         1 of 18 functions ( 5.6%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         Создание кода завершено
+         Lab17.vcxproj -> D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Release\Lab17.exe
+       FinalizeBuildStatus:
+         Файл "Release\Lab17.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Release\Lab17.tlog\Lab17.lastbuildstate".
+     1>Сборка проекта "D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Lab17\Lab17.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Lab17\Lab17.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Lab17\lab17.cpp(16,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:02.08

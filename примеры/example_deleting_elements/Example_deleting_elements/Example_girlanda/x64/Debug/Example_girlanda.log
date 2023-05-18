@@ -1,0 +1,28 @@
+﻿Сборка начата 26.03.2023 16:11:32.
+Уровень детализации журнала: Normal.     1>Проект "D:\Учеба\Basics of algorithmization and programming\примеры\example_deleting_elements\Example_deleting_elements\Example_girlanda\Example_girlanda.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "x64\Debug\Example_girlanda.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\Example_girlanda.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt example_girlanda.cpp
+         example_girlanda.cpp
+     1>D:\Учеба\Basics of algorithmization and programming\примеры\example_deleting_elements\Example_deleting_elements\Example_girlanda\example_girlanda.cpp(39,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учеба\Basics of algorithmization and programming\примеры\example_deleting_elements\Example_deleting_elements\x64\Debug\Example_girlanda.exe" /INCREMENTAL /ILK:"x64\Debug\Example_girlanda.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Учеба\Basics of algorithmization and programming\примеры\example_deleting_elements\Example_deleting_elements\x64\Debug\Example_girlanda.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учеба\Basics of algorithmization and programming\примеры\example_deleting_elements\Example_deleting_elements\x64\Debug\Example_girlanda.lib" /MACHINE:X64 x64\Debug\example_girlanda.obj
+         Example_girlanda.vcxproj -> D:\Учеба\Basics of algorithmization and programming\примеры\example_deleting_elements\Example_deleting_elements\x64\Debug\Example_girlanda.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Example_girlanda.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Example_girlanda.tlog\Example_girlanda.lastbuildstate".
+     1>Сборка проекта "D:\Учеба\Basics of algorithmization and programming\примеры\example_deleting_elements\Example_deleting_elements\Example_girlanda\Example_girlanda.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\Учеба\Basics of algorithmization and programming\примеры\example_deleting_elements\Example_deleting_elements\Example_girlanda\Example_girlanda.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Учеба\Basics of algorithmization and programming\примеры\example_deleting_elements\Example_deleting_elements\Example_girlanda\example_girlanda.cpp(39,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:01.74

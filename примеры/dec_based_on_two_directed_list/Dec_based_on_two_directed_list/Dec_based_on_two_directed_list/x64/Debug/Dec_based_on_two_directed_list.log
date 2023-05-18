@@ -1,0 +1,29 @@
+﻿Сборка начата 18.04.2023 23:14:44.
+Уровень детализации журнала: Normal.     1>Проект "D:\Учеба\Basics_of_algorithmization_and_programming\примеры\dec_based_on_two_directed_list\Dec_based_on_two_directed_list\Dec_based_on_two_directed_list\Dec_based_on_two_directed_list.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "D:\Учеба\Basics_of_algorithmization_and_programming\примеры\dec_based_on_two_directed_list\Dec_based_on_two_directed_list\x64\Debug\".
+         Создание каталога "x64\Debug\Dec_base.56418f14.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\Dec_base.56418f14.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt dec_based_on_two_directed_list.cpp
+         dec_based_on_two_directed_list.cpp
+     1>D:\Учеба\Basics_of_algorithmization_and_programming\примеры\dec_based_on_two_directed_list\Dec_based_on_two_directed_list\Dec_based_on_two_directed_list\dec_based_on_two_directed_list.cpp(29,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учеба\Basics_of_algorithmization_and_programming\примеры\dec_based_on_two_directed_list\Dec_based_on_two_directed_list\x64\Debug\Dec_based_on_two_directed_list.exe" /INCREMENTAL /ILK:"x64\Debug\Dec_based_on_two_directed_list.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Учеба\Basics_of_algorithmization_and_programming\примеры\dec_based_on_two_directed_list\Dec_based_on_two_directed_list\x64\Debug\Dec_based_on_two_directed_list.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учеба\Basics_of_algorithmization_and_programming\примеры\dec_based_on_two_directed_list\Dec_based_on_two_directed_list\x64\Debug\Dec_based_on_two_directed_list.lib" /MACHINE:X64 x64\Debug\dec_based_on_two_directed_list.obj
+         Dec_based_on_two_directed_list.vcxproj -> D:\Учеба\Basics_of_algorithmization_and_programming\примеры\dec_based_on_two_directed_list\Dec_based_on_two_directed_list\x64\Debug\Dec_based_on_two_directed_list.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Dec_base.56418f14.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Dec_base.56418f14.tlog\Dec_based_on_two_directed_list.lastbuildstate".
+     1>Сборка проекта "D:\Учеба\Basics_of_algorithmization_and_programming\примеры\dec_based_on_two_directed_list\Dec_based_on_two_directed_list\Dec_based_on_two_directed_list\Dec_based_on_two_directed_list.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\Учеба\Basics_of_algorithmization_and_programming\примеры\dec_based_on_two_directed_list\Dec_based_on_two_directed_list\Dec_based_on_two_directed_list\Dec_based_on_two_directed_list.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Учеба\Basics_of_algorithmization_and_programming\примеры\dec_based_on_two_directed_list\Dec_based_on_two_directed_list\Dec_based_on_two_directed_list\dec_based_on_two_directed_list.cpp(29,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:02.63

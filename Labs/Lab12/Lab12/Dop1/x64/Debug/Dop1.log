@@ -1,0 +1,30 @@
+﻿Сборка начата 06.04.2023 20:07:36.
+Уровень детализации журнала: Normal.     1>Проект "D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\Dop1\Dop1.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "x64\Debug\Dop1.tlog\Dop1.lastbuildstate" удаляется.
+     1>C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Отказано в доступе по пути "d:\учеба\basics_of_algorithmization_and_programming\labs\lab12\lab12\x64\debug\dop1.exe".
+       InitializeBuildStatus:
+         Обращение к "x64\Debug\Dop1.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt dop1.cpp
+         dop1.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\x64\Debug\Dop1.exe" /INCREMENTAL /ILK:"x64\Debug\Dop1.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\x64\Debug\Dop1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\x64\Debug\Dop1.lib" /MACHINE:X64 x64\Debug\dop1.obj
+     1>LINK : fatal error LNK1104: не удается открыть файл "D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\x64\Debug\Dop1.exe"
+     1>Сборка проекта "D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\Dop1\Dop1.vcxproj" завершена (целевые объекты Rebuild) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\Dop1\Dop1.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект CoreCppClean) -> 
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Отказано в доступе по пути "d:\учеба\basics_of_algorithmization_and_programming\labs\lab12\lab12\x64\debug\dop1.exe".
+
+
+       "D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\Dop1\Dop1.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект Link) -> 
+         LINK : fatal error LNK1104: не удается открыть файл "D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab12\Lab12\x64\Debug\Dop1.exe"
+
+    Предупреждений: 1
+    Ошибок: 1
+
+Прошло времени 00:00:01.97

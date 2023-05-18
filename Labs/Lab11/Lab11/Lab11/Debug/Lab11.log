@@ -1,0 +1,21 @@
+﻿Сборка начата 04.04.2023 12:54:15.
+Уровень детализации журнала: Normal.     1>Проект "D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Lab11\Lab11.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Lab11.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Debug\Lab11.exe" /INCREMENTAL /ILK:"Debug\Lab11.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Debug\Lab11.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Debug\Lab11.lib" /MACHINE:X86 Debug\lab11_10.obj
+     1>LINK : fatal error LNK1104: не удается открыть файл "D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Debug\Lab11.exe"
+     1>Сборка проекта "D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Lab11\Lab11.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Lab11\Lab11.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект Link) -> 
+         LINK : fatal error LNK1104: не удается открыть файл "D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Debug\Lab11.exe"
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.68

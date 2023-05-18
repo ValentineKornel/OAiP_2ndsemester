@@ -1,0 +1,30 @@
+﻿Сборка начата 10.03.2023 20:29:46.
+Уровень детализации журнала: Normal.     1>Проект "D:\Учеба\Basics of algorithmization and programming\Labs\Lab05\Project1\Var10_02\Var10_02.vcxproj" в узле 3 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "x64\Debug\Var10_02.tlog\Var10_02.lastbuildstate" удаляется.
+     1>C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Отказано в доступе по пути "d:\учеба\basics of algorithmization and programming\labs\lab05\project1\x64\debug\var10_02.exe".
+       InitializeBuildStatus:
+         Обращение к "x64\Debug\Var10_02.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt var10_02.cpp
+         var10_02.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учеба\Basics of algorithmization and programming\Labs\Lab05\Project1\x64\Debug\Var10_02.exe" /INCREMENTAL /ILK:"x64\Debug\Var10_02.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Учеба\Basics of algorithmization and programming\Labs\Lab05\Project1\x64\Debug\Var10_02.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учеба\Basics of algorithmization and programming\Labs\Lab05\Project1\x64\Debug\Var10_02.lib" /MACHINE:X64 x64\Debug\var10_02.obj
+     1>LINK : fatal error LNK1104: не удается открыть файл "D:\Учеба\Basics of algorithmization and programming\Labs\Lab05\Project1\x64\Debug\Var10_02.exe"
+     1>Сборка проекта "D:\Учеба\Basics of algorithmization and programming\Labs\Lab05\Project1\Var10_02\Var10_02.vcxproj" завершена (целевые объекты Rebuild) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\Учеба\Basics of algorithmization and programming\Labs\Lab05\Project1\Var10_02\Var10_02.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект CoreCppClean) -> 
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Отказано в доступе по пути "d:\учеба\basics of algorithmization and programming\labs\lab05\project1\x64\debug\var10_02.exe".
+
+
+       "D:\Учеба\Basics of algorithmization and programming\Labs\Lab05\Project1\Var10_02\Var10_02.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект Link) -> 
+         LINK : fatal error LNK1104: не удается открыть файл "D:\Учеба\Basics of algorithmization and programming\Labs\Lab05\Project1\x64\Debug\Var10_02.exe"
+
+    Предупреждений: 1
+    Ошибок: 1
+
+Прошло времени 00:00:00.96

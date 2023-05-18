@@ -1,0 +1,34 @@
+﻿Сборка начата 04.04.2023 12:54:09.
+Уровень детализации журнала: Normal.     1>Проект "D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Lab11\Lab11.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "x64\Debug\Lab11.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt lab11_10.cpp
+         lab11_10.cpp
+     1>D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Lab11\lab11_10.cpp(27,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Lab11\lab11_10.cpp(29,24): warning C4101: letter: неиспользованная локальная переменная
+     1>D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Lab11\lab11_10.cpp(28,23): warning C4101: n: неиспользованная локальная переменная
+     1>D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Lab11\lab11_10.cpp(262,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\x64\Debug\Lab11.exe" /INCREMENTAL /ILK:"x64\Debug\Lab11.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\x64\Debug\Lab11.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\x64\Debug\Lab11.lib" /MACHINE:X64 x64\Debug\lab11_10.obj
+     1>LINK : fatal error LNK1104: не удается открыть файл "D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\x64\Debug\Lab11.exe"
+     1>Сборка проекта "D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Lab11\Lab11.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Lab11\Lab11.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Lab11\lab11_10.cpp(27,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Lab11\lab11_10.cpp(29,24): warning C4101: letter: неиспользованная локальная переменная
+         D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Lab11\lab11_10.cpp(28,23): warning C4101: n: неиспользованная локальная переменная
+         D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Lab11\lab11_10.cpp(262,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+
+
+       "D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\Lab11\Lab11.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект Link) -> 
+         LINK : fatal error LNK1104: не удается открыть файл "D:\Учеба\Basics_of algorithmization and programming\Labs\Lab11\Lab11\x64\Debug\Lab11.exe"
+
+    Предупреждений: 4
+    Ошибок: 1
+
+Прошло времени 00:00:01.42

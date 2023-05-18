@@ -1,0 +1,38 @@
+﻿Сборка начата 18.04.2023 1:03:15.
+Уровень детализации журнала: Normal.     1>Проект "D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Dop2\Dop2.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Release\Dop2.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Release\\" /Fd"Release\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt dop2.cpp
+         dop2.cpp
+     1>D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Dop2\dop2.cpp(7,16): warning C4091: : пропускается слева от "std::vector<int,std::allocator<int>>", когда ни одна переменная не объявлена
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Release\Dop2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Release\Dop2.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /LTCGOUT:"Release\Dop2.iobj" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Release\Dop2.lib" /MACHINE:X86 /SAFESEH Release\dop2.obj
+         Создание кода
+         1 of 11 functions ( 9.1%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           4 functions had inline decision re-evaluated but remain unchanged
+     1>C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1094,5): error MSB6006: "link.exe" завершилась с кодом 1257.
+     1>D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Dop2\dop2.cpp(21): error C4700: использована неинициализированная локальная переменная "max_val"
+     1>D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Dop2\dop2.cpp(25): error C4700: использована неинициализированная локальная переменная "min_val"
+     1>LINK : fatal error LNK1257: не удалось создать код
+     1>Сборка проекта "D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Dop2\Dop2.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Dop2\Dop2.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Dop2\dop2.cpp(7,16): warning C4091: : пропускается слева от "std::vector<int,std::allocator<int>>", когда ни одна переменная не объявлена
+
+
+       "D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Dop2\Dop2.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект Link) -> 
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1094,5): error MSB6006: "link.exe" завершилась с кодом 1257.
+         D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Dop2\dop2.cpp(21): error C4700: использована неинициализированная локальная переменная "max_val"
+         D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab17\Lab17\Dop2\dop2.cpp(25): error C4700: использована неинициализированная локальная переменная "min_val"
+         LINK : fatal error LNK1257: не удалось создать код
+
+    Предупреждений: 1
+    Ошибок: 4
+
+Прошло времени 00:00:02.07

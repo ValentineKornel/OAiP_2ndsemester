@@ -1,0 +1,9 @@
+	Car ¹ 1
+Brand of the car: 
+Car's color: 
+Year of the car's release: 0
+Body type: 
+Last_inspection_date(DDMMYYYY): 0
+Owner: 
+
+

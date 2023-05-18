@@ -1,0 +1,39 @@
+﻿Сборка начата 18.05.2023 12:48:28.
+Уровень детализации журнала: Normal.     1>Проект "D:\Учеба\Basics_of_algorithmization_and_programming\Рефераты\Sort_analysis\Sort_Analasys\Sort_Analasys\Sort_Analasys.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Release\Sort_Analasys.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Release\\" /Fd"Release\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt main.cpp
+         main.cpp
+     1>D:\Учеба\Basics_of_algorithmization_and_programming\Рефераты\Sort_analysis\Sort_Analasys\Sort_Analasys\main.cpp(37,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>D:\Учеба\Basics_of_algorithmization_and_programming\Рефераты\Sort_analysis\Sort_Analasys\Sort_Analasys\main.cpp(122,10): warning C4129: s: неизвестная escape-последовательность
+     1>D:\Учеба\Basics_of_algorithmization_and_programming\Рефераты\Sort_analysis\Sort_Analasys\Sort_Analasys\main.cpp(40,13): warning C4101: sizeS: неиспользованная локальная переменная
+     1>D:\Учеба\Basics_of_algorithmization_and_programming\Рефераты\Sort_analysis\Sort_Analasys\Sort_Analasys\main.cpp(40,20): warning C4101: sizeD: неиспользованная локальная переменная
+     1>D:\Учеба\Basics_of_algorithmization_and_programming\Рефераты\Sort_analysis\Sort_Analasys\Sort_Analasys\main.cpp(603,11): warning C4101: count: неиспользованная локальная переменная
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учеба\Basics_of_algorithmization_and_programming\Рефераты\Sort_analysis\Sort_Analasys\Release\Sort_Analasys.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Учеба\Basics_of_algorithmization_and_programming\Рефераты\Sort_analysis\Sort_Analasys\Release\Sort_Analasys.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /LTCGOUT:"Release\Sort_Analasys.iobj" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учеба\Basics_of_algorithmization_and_programming\Рефераты\Sort_analysis\Sort_Analasys\Release\Sort_Analasys.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Создание кода
+         25 of 26 functions (96.2%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         Создание кода завершено
+         Sort_Analasys.vcxproj -> D:\Учеба\Basics_of_algorithmization_and_programming\Рефераты\Sort_analysis\Sort_Analasys\Release\Sort_Analasys.exe
+       FinalizeBuildStatus:
+         Файл "Release\Sort_Analasys.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Release\Sort_Analasys.tlog\Sort_Analasys.lastbuildstate".
+     1>Сборка проекта "D:\Учеба\Basics_of_algorithmization_and_programming\Рефераты\Sort_analysis\Sort_Analasys\Sort_Analasys\Sort_Analasys.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\Учеба\Basics_of_algorithmization_and_programming\Рефераты\Sort_analysis\Sort_Analasys\Sort_Analasys\Sort_Analasys.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Учеба\Basics_of_algorithmization_and_programming\Рефераты\Sort_analysis\Sort_Analasys\Sort_Analasys\main.cpp(37,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         D:\Учеба\Basics_of_algorithmization_and_programming\Рефераты\Sort_analysis\Sort_Analasys\Sort_Analasys\main.cpp(122,10): warning C4129: s: неизвестная escape-последовательность
+         D:\Учеба\Basics_of_algorithmization_and_programming\Рефераты\Sort_analysis\Sort_Analasys\Sort_Analasys\main.cpp(40,13): warning C4101: sizeS: неиспользованная локальная переменная
+         D:\Учеба\Basics_of_algorithmization_and_programming\Рефераты\Sort_analysis\Sort_Analasys\Sort_Analasys\main.cpp(40,20): warning C4101: sizeD: неиспользованная локальная переменная
+         D:\Учеба\Basics_of_algorithmization_and_programming\Рефераты\Sort_analysis\Sort_Analasys\Sort_Analasys\main.cpp(603,11): warning C4101: count: неиспользованная локальная переменная
+
+    Предупреждений: 5
+    Ошибок: 0
+
+Прошло времени 00:00:02.80

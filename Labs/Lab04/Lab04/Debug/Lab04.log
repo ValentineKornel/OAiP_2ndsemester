@@ -1,0 +1,30 @@
+﻿Сборка начата 09.03.2023 13:24:53.
+Уровень детализации журнала: Normal.     1>Проект "D:\Учеба\Basics of algorithmization and programming\Labs\Lab04\Lab04\Lab04.vcxproj" в узле 4 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "Debug\Lab04.tlog\Lab04.lastbuildstate" удаляется.
+     1>C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Отказано в доступе по пути "d:\учеба\basics of algorithmization and programming\labs\lab04\debug\lab04.exe".
+       InitializeBuildStatus:
+         Обращение к "Debug\Lab04.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt lab04_var10.cpp
+         lab04_var10.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учеба\Basics of algorithmization and programming\Labs\Lab04\Debug\Lab04.exe" /INCREMENTAL /ILK:"Debug\Lab04.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Учеба\Basics of algorithmization and programming\Labs\Lab04\Debug\Lab04.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учеба\Basics of algorithmization and programming\Labs\Lab04\Debug\Lab04.lib" /MACHINE:X86 Debug\lab04_var10.obj
+     1>LINK : fatal error LNK1104: не удается открыть файл "D:\Учеба\Basics of algorithmization and programming\Labs\Lab04\Debug\Lab04.exe"
+     1>Сборка проекта "D:\Учеба\Basics of algorithmization and programming\Labs\Lab04\Lab04\Lab04.vcxproj" завершена (целевые объекты Rebuild) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\Учеба\Basics of algorithmization and programming\Labs\Lab04\Lab04\Lab04.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект CoreCppClean) -> 
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Отказано в доступе по пути "d:\учеба\basics of algorithmization and programming\labs\lab04\debug\lab04.exe".
+
+
+       "D:\Учеба\Basics of algorithmization and programming\Labs\Lab04\Lab04\Lab04.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект Link) -> 
+         LINK : fatal error LNK1104: не удается открыть файл "D:\Учеба\Basics of algorithmization and programming\Labs\Lab04\Debug\Lab04.exe"
+
+    Предупреждений: 1
+    Ошибок: 1
+
+Прошло времени 00:00:02.76

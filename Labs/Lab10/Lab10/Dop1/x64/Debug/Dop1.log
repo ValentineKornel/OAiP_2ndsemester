@@ -1,0 +1,19 @@
+﻿Сборка начата 08.04.2023 14:39:30.
+Уровень детализации журнала: Normal.     1>Проект "D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab10\Lab10\Dop1\Dop1.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "x64\Debug\Dop1.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         Dop1.vcxproj -> D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab10\Lab10\x64\Debug\Dop1.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Dop1.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Dop1.tlog\Dop1.lastbuildstate".
+     1>Сборка проекта "D:\Учеба\Basics_of_algorithmization_and_programming\Labs\Lab10\Lab10\Dop1\Dop1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.05

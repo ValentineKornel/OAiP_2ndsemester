@@ -1,0 +1,38 @@
+﻿Сборка начата 03.04.2023 23:18:32.
+Уровень детализации журнала: Normal.     1>Проект "D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\Dop2\Dop2.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\Dop2.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt dop2.cpp
+         dop2.cpp
+     1>D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\Dop2\dop2.cpp(186,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\Dop2\dop2.cpp(192,19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\Dop2\dop2.cpp(296,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\Dop2\dop2.cpp(303,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\Dop2\dop2.cpp(308,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\Dop2\dop2.cpp(316,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\Dop2\dop2.cpp(329,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\x64\Debug\Dop2.exe" /INCREMENTAL /ILK:"x64\Debug\Dop2.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\x64\Debug\Dop2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\x64\Debug\Dop2.lib" /MACHINE:X64 x64\Debug\dop2.obj
+         Dop2.vcxproj -> D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\x64\Debug\Dop2.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Dop2.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Dop2.tlog\Dop2.lastbuildstate".
+     1>Сборка проекта "D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\Dop2\Dop2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\Dop2\Dop2.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\Dop2\dop2.cpp(186,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+         D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\Dop2\dop2.cpp(192,19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+         D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\Dop2\dop2.cpp(296,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+         D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\Dop2\dop2.cpp(303,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+         D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\Dop2\dop2.cpp(308,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+         D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\Dop2\dop2.cpp(316,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+         D:\Учеба\Basics_of algorithmization and programming\Labs\Lab09\lab09\Dop2\dop2.cpp(329,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+    Предупреждений: 7
+    Ошибок: 0
+
+Прошло времени 00:00:02.14

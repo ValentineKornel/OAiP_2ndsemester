@@ -1,0 +1,9 @@
+	Car ¹ 1
+Brand of the car: Mbn
+Car's color: blue
+Year of the car's release: 2019
+Body type: skj;d
+Last_inspection_date(DDMMYYYY): 21012023
+Owner: Valnetine
+
+
